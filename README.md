@@ -47,3 +47,5 @@ A ferramenta identifica possíveis indicadores de risco, mas não garante que um
 - O arquivo `build.bat` deve estar presente na pasta do projeto.
 - O nome e o local do executável dependem da configuração de compilação.
 - O uso do Tor depende de configuração e dependências compatíveis.
+- Relatorios são gerados na pasta do programa, o arquivo é acumulativo!! Necessario apagar ao executar um link.(correção em breve)
+- O arquivo não ter uma licença do Windows é necessário adicionar a pasta em exclusões no Defender.
