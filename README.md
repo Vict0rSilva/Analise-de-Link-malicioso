@@ -2,6 +2,10 @@
 
 O AnalisaLink é uma ferramenta desenvolvida com auxílio de Inteligência Artificial (IA), utilizando Python para analisar URLs e identificar possíveis sinais de risco, como domínios suspeitos e redirecionamentos.
 
+<p align="center">
+  <img src="https://github.com/Vict0rSilva/Analise-de-Link-malicioso/blob/e561c76326792559d3863f4ecef8aded0521b0c3/Untitled-1.jpg" alt="Descrição da imagem">
+</p>
+
 ## Funcionalidades
 
 - Análise de URLs e redirecionamentos.
